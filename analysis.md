@@ -1,4 +1,4 @@
-# Analysis Report
+# Analysis
 
 ## Transfer Learning Using MobileNetV2 for Classification of Normal (N) and Invasive Carcinoma (I\_C) Samples
 
